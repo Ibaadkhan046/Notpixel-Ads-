@@ -1,0 +1,7 @@
+pydantic==1.10.12
+better-proxy==1.1.5
+aiocfscrape==1.0.0
+loguru==0.7.2
+rich==13.9.2
+aiohttp==3.9.3
+aiohttp-proxy==0.1.2
