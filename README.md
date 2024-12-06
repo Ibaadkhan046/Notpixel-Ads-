@@ -28,7 +28,7 @@ php adduser.php
 ```
 6. Run the main script:
 ```
-php notpixel.php
+php main.php
 ```
 Enjoy Your Script 
 Warning ⚠️ Its Puplic Not for sale
