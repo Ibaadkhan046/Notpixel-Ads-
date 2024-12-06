@@ -13,11 +13,11 @@ apt update && apt upgrade -y
 ```
 3. Clone the repository:
 ```
-git clone https://github.com/Not-D4rkCipherX/notpixel-adsv2.git
+git clone https://github.com/Ibaadkhan046/Notpixel-Ads-MI-Cyber-Warrior.git
 ```
 4. Navigate to the repository:
 ```
-cd notpixel-adsv2
+cd Notpixel-Ads-MI-Cyber-Warrior
 ```
 5. Run the main script:
 ```
