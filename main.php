@@ -1,1 +1,228 @@
-<?php function irwcyvng_d856c241502929a5b0a771051dab1caa(){if(strtoupper(substr(PHP_OS,0,3))===base64_decode('V0lO')){system(base64_decode('Y2xz'));}else{system(base64_decode('Y2xlYXI='));}}function nvgsebou_187015d8a89c501401007ba6059176b8($voduccnx_78e731027d8fd50ed642340b7c9a63b3){echo"\033[32m$voduccnx_78e731027d8fd50ed642340b7c9a63b3\033[0m\n";}function vwhcyyik_a04171a7f4912ce43238ac01be8adb64($voduccnx_78e731027d8fd50ed642340b7c9a63b3){echo"\033[31m$voduccnx_78e731027d8fd50ed642340b7c9a63b3\033[0m\n";}function yixrffrq_a4c1246c49f91bf905cfbe284623968f($voduccnx_78e731027d8fd50ed642340b7c9a63b3){echo"\033[34m$voduccnx_78e731027d8fd50ed642340b7c9a63b3\033[0m\n";}function ifegyvmb_0c381da83a26590a82f4ed55e2e5f5bf($voduccnx_78e731027d8fd50ed642340b7c9a63b3){echo"\033[1;32m$voduccnx_78e731027d8fd50ed642340b7c9a63b3\033[0m\n";}function dfkohxek_529971e960fcdf768451f0b0fd009d4f(){ifegyvmb_0c381da83a26590a82f4ed55e2e5f5bf(base64_decode('DQogICAgICAgIA0K4paX4paWIOKWl+KWliDilpfiloTilpYg4paX4paWICAg4paX4paE4paE4paE4paWICAgIOKWl+KWliAg4paX4paW4paX4paE4paE4paEICANCuKWkOKWjCDilpDilozilpDilowg4paQ4paM4paQ4paMICAg4paQ4paMICAgICAgICDilp3ilprilp7ilpgg4paQ4paMICDiloggDQrilpDilowg4paQ4paM4paQ4paMIOKWkOKWjOKWkOKWjCAgIOKWkOKWm+KWgOKWgOKWmCAgICAgIOKWkOKWjCAg4paQ4paMICDiloggDQrilpDilpnilojilp/ilozilp3ilpriloTilp7ilpjilpDilpniloTiloTilpbilpDilowgICAgICAg4paX4pae4paY4pad4paa4paW4paQ4paZ4paE4paE4paAIA0KDQogICAgICB8IE5PVCBQSVhFTCBFWFRFUk5BTCAgfA0KICAgICAgfCBBRFMgV0FUQ0hJTkcgU0NSSVBUIHwNCiAgICAgICAgIOKIhiBWRVJTSU9OIDogMy4xIOKIhiAgICAgICAgIA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQrigKIgREVWT0xQRUQgQlkgOiBXT0xGIFhE4oSiDQrigKIgUFVCTElTSEVEIEJZIDogQVNIRSdTIFRSSUNLUw0K4oCiIFdIQVQnUyBBUFA6ICs5MiAzMDkgMDIyNTYxOA0K4oCiIFRFTEVHUkFNIDogaHR0cHM6Ly90Lm1lL3Jvc2VfeGRfeXQgICAgICANCg0K4oCiIEpvaW4gbXkgVGVsZWdyYW0gQ2hhbm5lbCBmb3IgRnV0dXJlICANCiAgICBVcGRhdGVzIGFuZCBTY3JpcHRzICAgIA0K4oCiIFdhcm5pbmcgOiBOb3QgZm9yIHNhbGUgUHVibGljIHVzZSBvbmx5Li4uDQogICAgRG9uJ3QgICB0cnkgdG8gc3RlYWwgQ29weXJpZ2h0wqkNCiAgICAgICAgICAgICAgICAgDQogICAg'));}function sjtpeqpi_aa60ba027721a5609e26f3524dbc01e0($xrdzhhvt_2a304a1348456ccd2234cd71a81bd338){if(preg_match(base64_decode('L3N0YXJ0YXBwPWYoXGQrKS8='),$xrdzhhvt_2a304a1348456ccd2234cd71a81bd338,$xafiweyv_9c28d32df234037773be184dbdafc274)){return $xafiweyv_9c28d32df234037773be184dbdafc274[1];}return false;}function mymvzoxw_1903f4d0760e9665674845a911013e7d(){ifegyvmb_0c381da83a26590a82f4ed55e2e5f5bf(base64_decode('ClNlbGVjdCBhbiBvcHRpb246'));echo base64_decode('MS4gU2F2ZSBBY2NvdW50Cg==');echo base64_decode('Mi4gU2F2ZSBNdWx0aXBsZSBBY2NvdW50cwo=');echo base64_decode('My4gU3RhcnQgRWFybmluZwo=');echo base64_decode('NC4gVmlldyBTYXZlZCBBY2NvdW50cwo=');echo base64_decode('NS4gRGVsZXRlIEFjY291bnQK');vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('MC4gRXhpdAo='));echo base64_decode('RW50ZXIgeW91ciBjaG9pY2U6IA==');}irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();$wxuryqsb_3090ad88ff7c9ca191579b709069fe64=base64_decode('dXNlcnMuanNvbg==');$lmvbsqwj_8d777f385d3dfec8815d20f7496026dc=file_exists($wxuryqsb_3090ad88ff7c9ca191579b709069fe64)?json_decode(file_get_contents($wxuryqsb_3090ad88ff7c9ca191579b709069fe64),true):[];if(!empty($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc)){nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('QWNjb3VudHMgRGV0ZWN0ZWQ6IA==').count($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc));}while(true){mymvzoxw_1903f4d0760e9665674845a911013e7d();$qjhamnpi_0162cefc4952304026cb1f5dab2419d2=trim(fgets(STDIN));switch($qjhamnpi_0162cefc4952304026cb1f5dab2419d2){case base64_decode('MQ=='):irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('RW50ZXIgeW91ciByZWZlcnJhbCBsaW5rOg=='));$fcjzhgnw_ed151722153729684b21bf8db8ac57af=trim(fgets(STDIN));$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c=sjtpeqpi_aa60ba027721a5609e26f3524dbc01e0($fcjzhgnw_ed151722153729684b21bf8db8ac57af);if(!$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c){vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('SW52YWxpZCByZWZlcnJhbCBsaW5rISBQbGVhc2UgdHJ5IGFnYWluLg=='));}else{if(isset($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc[$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c])){vwhcyyik_a04171a7f4912ce43238ac01be8adb64("This account is already saved: $kzutdqcp_696d8208cb079047f1ee9db09dee4c4c.");}else{$lmvbsqwj_8d777f385d3dfec8815d20f7496026dc[$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c]=[base64_decode('dGdfaWQ=')=>$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c,base64_decode('c2F2ZWRfYXQ=')=>date(base64_decode('WS1tLWQgSDppOnM='))];nvgsebou_187015d8a89c501401007ba6059176b8("Account saved successfully for TG ID: $kzutdqcp_696d8208cb079047f1ee9db09dee4c4c!");file_put_contents($wxuryqsb_3090ad88ff7c9ca191579b709069fe64,json_encode($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc,JSON_PRETTY_PRINT));}}break;case base64_decode('Mg=='):irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('RW50ZXIgeW91ciByZWZlcnJhbCBsaW5rcw0KbGluZSBieSBsaW5lIHRoZW4gdHlwZSBkb25lIHByZXNzIGVudGVy'));$xsenyywh_d84c2fae5085426e1ff29f8dc5c18b61=[];while(true){$xrdzhhvt_2a304a1348456ccd2234cd71a81bd338=trim(fgets(STDIN));if($xrdzhhvt_2a304a1348456ccd2234cd71a81bd338==base64_decode('ZG9uZQ==')){break;}$xsenyywh_d84c2fae5085426e1ff29f8dc5c18b61[]=$xrdzhhvt_2a304a1348456ccd2234cd71a81bd338;}$vugfpamc_0e37436c540c863a6d0fb4c25d008a0f=[];foreach($xsenyywh_d84c2fae5085426e1ff29f8dc5c18b61 as $xrdzhhvt_2a304a1348456ccd2234cd71a81bd338){$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c=sjtpeqpi_aa60ba027721a5609e26f3524dbc01e0($xrdzhhvt_2a304a1348456ccd2234cd71a81bd338);if(!$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c){vwhcyyik_a04171a7f4912ce43238ac01be8adb64("Invalid referral link: $xrdzhhvt_2a304a1348456ccd2234cd71a81bd338! Skipping.");continue;}if(isset($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc[$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c])){vwhcyyik_a04171a7f4912ce43238ac01be8adb64("This account is already saved: $kzutdqcp_696d8208cb079047f1ee9db09dee4c4c.");}else{$lmvbsqwj_8d777f385d3dfec8815d20f7496026dc[$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c]=[base64_decode('dGdfaWQ=')=>$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c,base64_decode('c2F2ZWRfYXQ=')=>date(base64_decode('WS1tLWQgSDppOnM='))];$vugfpamc_0e37436c540c863a6d0fb4c25d008a0f[]=$kzutdqcp_696d8208cb079047f1ee9db09dee4c4c;nvgsebou_187015d8a89c501401007ba6059176b8("Account saved successfully for TG ID: $kzutdqcp_696d8208cb079047f1ee9db09dee4c4c!");}}if(!empty($vugfpamc_0e37436c540c863a6d0fb4c25d008a0f)){yixrffrq_a4c1246c49f91bf905cfbe284623968f(base64_decode('U2F2ZWQgQWNjb3VudHMgKEpTT04gZm9ybWF0KTo='));echo base64_decode('G1szMm0=').json_encode($vugfpamc_0e37436c540c863a6d0fb4c25d008a0f,JSON_PRETTY_PRINT).base64_decode('G1swbQo=');file_put_contents($wxuryqsb_3090ad88ff7c9ca191579b709069fe64,json_encode($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc,JSON_PRETTY_PRINT));}else{vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('Tm8gYWNjb3VudHMgd2VyZSBzYXZlZC4='));}break;case base64_decode('Mw=='):irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();include base64_decode('ZG9udF9kZWxldGVfb3JfbW9kaWZ5LnBocA==');break;case base64_decode('NA=='):irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();if(empty($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc)){vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('Tm8gYWNjb3VudHMgc2F2ZWQu'));}else{yixrffrq_a4c1246c49f91bf905cfbe284623968f(base64_decode('U2F2ZWQgQWNjb3VudHMgKEpTT04pOg=='));echo base64_decode('G1szMm0=').json_encode($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc,JSON_PRETTY_PRINT).base64_decode('G1swbQo=');}break;case base64_decode('NQ=='):irwcyvng_d856c241502929a5b0a771051dab1caa();dfkohxek_529971e960fcdf768451f0b0fd009d4f();if(empty($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc)){vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('Tm8gYWNjb3VudHMgdG8gZGVsZXRlLg=='));continue;}yixrffrq_a4c1246c49f91bf905cfbe284623968f(base64_decode('U2F2ZWQgQWNjb3VudHM6'));foreach(array_values($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc)as $esmuoqej_6a992d5529f459a44fee58c733255e86=>$vmctmpqf_e268443e43d93dab7ebef303bbe9642f){echo($esmuoqej_6a992d5529f459a44fee58c733255e86+1).base64_decode('LiBURyBJRDog').$vmctmpqf_e268443e43d93dab7ebef303bbe9642f[base64_decode('dGdfaWQ=')].base64_decode('Cg==');}nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('RW50ZXIgdGhlIG51bWJlciBvZiB0aGUgYWNjb3VudCB5b3Ugd2FudCB0byBkZWxldGU6'));$xloayaon_df450afe6ab01fbf656e45954dbd779a=intval(trim(fgets(STDIN)))-1;if($xloayaon_df450afe6ab01fbf656e45954dbd779a>=0&&$xloayaon_df450afe6ab01fbf656e45954dbd779a<count($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc)){$lmvbsqwj_8d777f385d3dfec8815d20f7496026dc=array_values($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc);unset($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc[$xloayaon_df450afe6ab01fbf656e45954dbd779a]);$lmvbsqwj_8d777f385d3dfec8815d20f7496026dc=array_values($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc);file_put_contents($wxuryqsb_3090ad88ff7c9ca191579b709069fe64,json_encode($lmvbsqwj_8d777f385d3dfec8815d20f7496026dc,JSON_PRETTY_PRINT));nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('QWNjb3VudCBkZWxldGVkIHN1Y2Nlc3NmdWxseSE='));}else{vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('SW52YWxpZCBjaG9pY2UhIFRyeSBhZ2Fpbi4='));}break;case base64_decode('MA=='):echo base64_decode('Cg==');nvgsebou_187015d8a89c501401007ba6059176b8(base64_decode('RXhpdGluZy4uLiBCeWUh'));exit;default:vwhcyyik_a04171a7f4912ce43238ac01be8adb64(base64_decode('SW52YWxpZCBjaG9pY2UhIFBsZWFzZSB0cnkgYWdhaW4u'));break;}}?>
+<?php
+
+// Function to clear screen based on OS
+function clearScreen() {
+    if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+        system('cls');
+    } else {
+        system('clear');
+    }
+}
+
+// Function to generate random user agent
+function generateUserAgent() {
+    $os = ['Windows', 'Linux', 'iOS', 'Android'];
+    $versions = ['8', '9', '10', '11', '12', '13', '14'];
+    $devices = ['Samsung', 'Motorola', 'Xiaomi', 'Huawei', 'OnePlus'];
+    
+    $selectedOs = $os[array_rand($os)];
+    
+    if ($selectedOs === 'Android') {
+        $version = $versions[array_rand($versions)];
+        $device = $devices[array_rand($devices)];
+        $userAgent = "Mozilla/5.0 (Linux; Android $version; $device) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36";
+    } else {
+        $userAgent = "Mozilla/5.0 ($selectedOs NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36";
+    }
+    
+    return $userAgent . rand(1000000, 9999999);
+}
+
+// Function to print colored text
+function printColored($text, $color) {
+    return "\033[" . $color . "m" . $text . "\033[0m";
+}
+
+// Color codes
+$green = "32";
+$red = "31"; 
+$yellow = "33";
+$blue = "34";
+
+// Function to print banner
+function printBanner() {
+    global $green;
+    $banner = "
+-------------------------------------------------
+██████████████████████████
+   ██   ██    ██      █      █
+   ██   █████████████       █
+   ██   ██    ██      █      █
+███████████████████████████
+-------------------------------------------------
+
+     - NOT PIXEL AD WATCH -
+     
+              - VERSION 2.0 -
+    
+- MADE BY : Ibad (MI CYBER WARRIOR)
+- Telegram: @MICYBERWARRIOR 
+- channel: https://t.me/MICYBERWARRIOR 
+
+- Note: If you encounter the issue \"URL not found\"
+  kindly ignore it.  
+- PX Points will be added to your account within 20 seconds.
+
+-------------------------------------------------
+
+";
+    echo printColored($banner, $green);
+}
+
+// Check for users.json file
+$usersFile = 'users.json';
+if (!file_exists($usersFile)) {
+    echo printColored("Error: No users found! Please save a Telegram ID by running the command: php adduser.php\nFollow the on-screen instructions to add users.\n", $red);
+    exit;
+}
+
+$users = json_decode(file_get_contents($usersFile), true);
+if (!$users) {
+    echo printColored("Error: Could not parse users.json!\n", $red);
+    exit;
+}
+
+$userPoints = array_fill_keys(array_keys($users), 0);
+
+// Function to generate random chat instance
+function generateChatInstance() {
+    return strval(rand(10000000000000, 99999999999999));
+}
+
+// Function to make API request
+function makeApiRequest($userId, $tgId) {
+    $url = "https://api.adsgram.ai/adv?blockId=4853&tg_id=$tgId&tg_platform=android&platform=Linux%20aarch64&language=en&chat_type=sender&chat_instance=" . generateChatInstance() . "&top_domain=app.notpx.app";
+    
+    $userAgent = generateUserAgent();
+    $baseUrl = "https://app.notpx.app/";
+    
+    $headers = [
+        'Host: api.adsgram.ai',
+        'Connection: keep-alive', 
+        'Cache-Control: max-age=0',
+        'sec-ch-ua-platform: "Android"',
+        "User-Agent: $userAgent",
+        'sec-ch-ua: "Android WebView";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+        'sec-ch-ua-mobile: ?1',
+        'Accept: */*',
+        'Origin: https://app.notpx.app',
+        'X-Requested-With: org.telegram.messenger',
+        'Sec-Fetch-Site: cross-site',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        "Referer: $baseUrl",
+        'Accept-Encoding: gzip, deflate, br, zstd',
+        'Accept-Language: en,en-US;q=0.9'
+    ];
+
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+    $response = curl_exec($ch);
+    $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    return [$response, $httpCode, $headers];
+}
+
+// Function to extract reward value
+function extractReward($response) {
+    $data = json_decode($response, true);
+    if ($data && isset($data['banner']['trackings'])) {
+        foreach ($data['banner']['trackings'] as $tracking) {
+            if ($tracking['name'] === 'reward') {
+                return $tracking['value'];
+            }
+        }
+    }
+    return null;
+}
+
+$totalPoints = 0;
+$firstRun = true;
+
+while (true) {
+    clearScreen();
+    printBanner();
+
+    if (!$firstRun) {
+        foreach ($users as $userId => $userData) {
+            echo "\n";
+            echo printColored("---> $userId +{$userPoints[$userId]} PX\n", $green);
+        }
+        echo "\n";
+        echo printColored("Total PX Earned [ +$totalPoints ]\n\n", $green);
+    }
+
+    $rewards = [];
+    $headers = [];
+
+    foreach ($users as $userId => $userData) {
+        $tgId = $userData['tg_id'];
+        
+        echo printColored("[ INFO ] Starting NOT PIXEL Engine\n", $yellow);
+        echo printColored("[ PROCESS ] Injecting V1 ---> TG ID | $userId ...\n", $blue);
+        
+        sleep(3);
+        
+        list($response, $httpCode, $reqHeaders) = makeApiRequest($userId, $tgId);
+        
+        if ($httpCode === 200) {
+            $reward = extractReward($response);
+            if ($reward) {
+                $rewards[$userId] = $reward;
+                $headers[$userId] = $reqHeaders;
+                echo printColored("[ SUCCESS ] ++ Injected to $userId.\n", $green);
+            } else {
+                echo printColored("[ ERROR ] Ads watching limit reached.\n", $red);
+                echo printColored("[ SOLUTION ] Try VPN or wait for 24 hours.\nUse Proton VPN install it from play store.\n", $green);
+                echo printColored("[ REPORT ] If facing issue again and again Send Details and ScreenShot Contact Developer Telegram @savanop\n", $yellow);
+                continue;
+            }
+        } elseif ($httpCode === 403) {
+            echo printColored("[ ERROR ] Seems like your IP address is banned\n", $red);
+            echo printColored("[ SOLUTION ] Use Proton VPN install it from play store.\n", $yellow);
+            exit;
+        } else {
+            if ($httpCode === 400 && strpos($response, 'block_error') !== false) {
+                echo printColored("[ ERROR ] Ads Block error - Ignore it will be fixed automatically -\n", $red);
+                continue;
+            }
+            echo printColored("[ ERROR ] HTTP Error: $httpCode\n", $red);
+            continue;
+        }
+    }
+
+    for ($i = 20; $i > 0; $i--) {
+        echo "\r-----> Cooldown $i seconds left...";
+        sleep(1);
+    }
+    echo "\n";
+
+    foreach ($rewards as $userId => $reward) {
+        echo printColored("[ PROCESS ] Injecting V2 ---> $userId ]\n", $yellow);
+        
+        $reqHeaders = $headers[$userId];
+        
+        $ch = curl_init();
+        curl_setopt($ch, CURLOPT_URL, $reward);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $reqHeaders);
+        $response = curl_exec($ch);
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        curl_close($ch);
+
+        if ($httpCode === 200) {
+            $totalPoints += 16;
+            $userPoints[$userId] += 16;
+            echo printColored("[ SUCCESS ] ++ $userId +16 PX\n", $green);
+        } else {
+            echo printColored("[ ERROR ] Failed to inject for $userId. HTTP Code: $httpCode\n", $red);
+        }
+    }
+
+    $firstRun = false;
+}
+
+?>
