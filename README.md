@@ -6,6 +6,9 @@
 pkg install php
 ```
 ```
+pkg install curl
+```
+```
 pkg install git
 ```
 ```
@@ -19,12 +22,15 @@ git clone https://github.com/Ibaadkhan046/Notpixel-Ads-MI-Cyber-Warrior.git
 ```
 cd Notpixel-Ads-MI-Cyber-Warrior
 ```
-5. Run the main script:
+5.Add Refferal link here:
 ```
-php main.php
+php adduser.php
 ```
-6. Choose the option to save accounts.
+6. Run the main script:
+```
+php notpixel.php
+```
+Enjoy Your Script 
+Warning ⚠️ Its Puplic Not for sale
 
-7. Paste your referral link and press Enter. If you have multiple accounts, repeat this process to save all your referral links.
-
-8. Select option 3 to start earning.
+Follow me on Telegram Micyberwarrior 
